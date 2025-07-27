@@ -3,5 +3,10 @@
 </div>
 
 <p align="center">
-  <img src="./Banner_CyberPunk.png" alt="Banner Cyberpunk Full-Stack & AI" />
+  <img
+    src="./Banner_CyberPunk.png"
+    alt="Banner Cyberpunk Full-Stack & AI"
+    width="450"
+   
+  />
 </p>
