@@ -8,7 +8,7 @@
     alt="Banner Cyberpunk Full-Stack & AI"
     width="450"
    
-  />
+  
 </p>
 
 ### 👨🏻‍💻 &nbsp; Sobre mi
